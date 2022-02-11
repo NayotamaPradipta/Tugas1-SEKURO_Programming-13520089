@@ -36,7 +36,7 @@ Untuk pindah ke branch yang lain, gunakan perintah:
 ```shell
 git checkout <branch_name>
 ```
-Command ini akan menyebabkan head pointer berpindah ke <branch_name>. Pada saat commit baru dilakukan, maka yang berpindah adalah branch beserta head pointernya. Berikut contohnya:
+Command ini akan menyebabkan head pointer berpindah ke <branch_name>. Pada saat commit baru dilakukan, maka yang berpindah adalah branch beserta head pointernya. Berikut contohnya: <br>
 ![](Screenshots/gitcheckout.png) <br>
 
 Untuk melakukan commit, caranya sama dengan yang telah dijelaskan di rangkuman 5, yaitu:
