@@ -13,7 +13,7 @@ Untuk melihat semua branch pada suatu commit, maka tuliskan:
 ```shell
 git branch
 ```
-Contoh tampilan adalah sebagai berikut:
+Contoh tampilan adalah sebagai berikut: <br>
 ![](Screenshots/gitbranch.png) <br>
 
 Untuk memvisualisasikan perubahan yang ada, gunakan command berikut:
