@@ -2,7 +2,7 @@
 
 ## Git Overview <hr>
 
-Git adalah sebuah version control system terdistribusi, yaitu sistem untuk megelola perubahan informasi digital seperti file di dalam repository/repo. Git memungkinkan pengelola untuk melihat versi-versi yang telah di-<i>save</i> sebelumnya. Selain itu, Git memungkinkan berbagai developer untuk bekerja dengan file yang sama.
+Git adalah sebuah version control system terdistribusi, yaitu sistem untuk mengelola perubahan informasi digital seperti file di dalam repository/repo. Git memungkinkan pengelola untuk melihat versi-versi yang telah di-<i>save</i> sebelumnya. Selain itu, Git memungkinkan berbagai developer untuk bekerja dengan file yang sama.
 <br>
 
 1. Perubahan di dalam git harus dilakukan dengan <i>commit</i> <br>
